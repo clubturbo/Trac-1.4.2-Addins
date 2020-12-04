@@ -1,0 +1,11 @@
+TracGitLocation-1.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+TracGitLocation-1.0.dist-info/METADATA,sha256=Nh-RNDLYK9INUx0UNv7dvt12Azr6oGEWGq4eS7s7gw8,612
+TracGitLocation-1.0.dist-info/RECORD,,
+TracGitLocation-1.0.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+TracGitLocation-1.0.dist-info/WHEEL,sha256=DgcoKJDfsYFbFLUrngH-aDjJZvn8UqGD3gZyEvGv0dg,92
+TracGitLocation-1.0.dist-info/entry_points.txt,sha256=9cRt1wswBJLt-zGTrF9QRsCA69EbiNYEaKsvcRtaNx4,42
+TracGitLocation-1.0.dist-info/top_level.txt,sha256=1blbz45-ZdRj706fCVvY91zdz0TJLNOPkN7S0X2WdCc,12
+gitlocation/__init__.py,sha256=zEPiNAScHpA2xh8FIrzCiR5730ellDO8JxZypwyLvM8,36
+gitlocation/__init__.pyc,,
+gitlocation/web_ui.py,sha256=VxDVzDKYJTEyEerJzc0yYihP_xLzljb8b6tEXyDsHqc,1513
+gitlocation/web_ui.pyc,,

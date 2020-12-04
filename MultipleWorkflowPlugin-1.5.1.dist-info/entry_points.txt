@@ -1,0 +1,5 @@
+
+        [trac.plugins]
+        MultipleWorkflowPlugin = multipleworkflow.workflow
+        MultipleWorkflowAdmin = multipleworkflow.web_ui
+    

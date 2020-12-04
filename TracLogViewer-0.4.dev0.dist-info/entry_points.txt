@@ -1,0 +1,3 @@
+[trac.plugins]
+logviewer = logviewer.web_ui
+

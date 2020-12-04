@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: TracIniAdminPanel
+Version: 1.4.1
+Summary: An admin panel for editing trac.ini
+Home-page: https://trac-hacks.org/wiki/TracIniAdminPanelPlugin
+Author: Sebastian Krysmanski, Dirk Stöcker
+Author-email: trac@dstoecker.de
+License: BSD
+Keywords: trac plugin
+Platform: UNKNOWN
+Classifier: Framework :: Trac
+Classifier: License :: OSI Approved :: BSD License
+Requires-Dist: Trac
+
+UNKNOWN
+
+

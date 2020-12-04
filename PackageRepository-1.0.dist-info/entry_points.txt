@@ -1,0 +1,6 @@
+[trac.plugins]
+packagerepository.admin = packagerepository.admin
+packagerepository.core = packagerepository.core
+packagerepository.repojs = packagerepository.repojs
+packagerepository.repopy = packagerepository.repopy
+

@@ -1,0 +1,4 @@
+[trac.plugins]
+iniadminpanel.default_manager = iniadminpanel.default_manager
+iniadminpanel.web_ui = iniadminpanel.web_ui
+

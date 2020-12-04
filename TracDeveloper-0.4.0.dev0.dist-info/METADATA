@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: TracDeveloper
+Version: 0.4.0.dev0
+Summary: Adds some features to Trac that are useful for developers
+Home-page: https://trac-hacks.org/wiki/TracDeveloperPlugin
+Author: Alec Thomas
+Maintainer: Olemis Lang
+Maintainer-email: olemis+trac@gmail.com
+License: BSD
+Platform: UNKNOWN
+Requires-Dist: Trac
+
+UNKNOWN
+
+

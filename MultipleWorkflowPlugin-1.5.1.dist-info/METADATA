@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: MultipleWorkflowPlugin
+Version: 1.5.1
+Summary: Ticket workflows based on ticket type. Admin page for editing the workflows.
+Home-page: https://trac-hacks.org/wiki/MultipleWorkflowPlugin
+Author: ermal
+Maintainer: Cinc-th
+License: New BSD
+Platform: UNKNOWN
+Requires-Dist: Trac
+
+UNKNOWN
+
+

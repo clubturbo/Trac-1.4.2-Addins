@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: HudsonTrac
+Version: 0.6.dev0
+Summary: A trac plugin to add hudson build info to the trac timeline
+Home-page: https://trac-hacks.org/wiki/HudsonTracPlugin
+Author: Ronald Tschalär
+Author-email: UNKNOWN
+License: BSD
+Keywords: trac builds hudson
+Platform: UNKNOWN
+
+UNKNOWN
+
+

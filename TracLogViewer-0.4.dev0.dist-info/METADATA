@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: TracLogViewer
+Version: 0.4.dev0
+Summary: View Trac log files from within the Web-UI
+Home-page: http://trac-hacks.org/wiki/izzy
+Author: Andreas Itzchak Rehberg
+Author-email: izzysoft@qumran.org
+License: GPL
+Keywords: trac plugin log
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Trac
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Bug Tracking
+Classifier: Topic :: System :: Logging
+Classifier: Topic :: System :: Systems Administration
+Requires-Dist: Trac
+
+This plugin allows you to view your trac.log logfile without shell access, just via the Web-UI Admin interface. You can select to only display messages from a specified log level (e.g. only warnings), optionally including higher levels. Moreover, you may restrict the output to the latest N lines, and even filter for lines containing a specified string or even matching a regular expression.
+
+
